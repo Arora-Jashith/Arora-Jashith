@@ -25,12 +25,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-![Jashith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arora-Jashith&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arora-Jashith&layout=compact&theme=radical)  
-
----
-
 ### 📫 Let's Connect  
 - **Email:** jashith.arora.13@gmail.com  
 - **LinkedIn:** [linkedin.com/in/jashith-arora](https://linkedin.com/in/jashith-arora)  
